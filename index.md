@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Wow: Welcome to my blog!
 ---
